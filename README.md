@@ -1,2 +1,4 @@
 # stepik---auto-tests-course
-First Домашнее задание по курсу автоматического тестирования
+Домашнее задание по курсу автоматического тестирования
+
+Ссылка на курс: https://stepik.org/users/117753246/courses/archive?auth=registration
